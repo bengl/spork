@@ -2,7 +2,7 @@ require 'socket'
 require 'forwardable'
 
 begin
-require 'ruby-debug'
+require 'debugger'
 
 # Experimental!
 
